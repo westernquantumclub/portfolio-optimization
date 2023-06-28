@@ -147,6 +147,6 @@ for asset in range(num_assets):
 ##prints the different assets and the wieghting associated with them     
 for ticks in range(num_assets):
     print(tickers[ticks]+" "+str(round(AssetWeightings[ticks]*100,3))+"%")
-    
+    ##s
 
 
